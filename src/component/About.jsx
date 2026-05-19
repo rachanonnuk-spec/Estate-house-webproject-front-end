@@ -35,7 +35,7 @@ const App = () => {
                         <p>YC</p>
                     </div>
                 </div>
-                <p className="my-10 max-w-lg">aslkdhas;oidhaosidhjaiopsudjiopasudiopas</p>
+                <p className="my-10 max-w-lg">Crafting sophisticated architectural experiences through innovation, precision, and timeless design excellence.</p>
                 <button className="bg-blue-600 text-white px-8 py-2 rounded-full">Lern More</button>
 
             </div>
